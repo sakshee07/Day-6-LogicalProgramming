@@ -10,6 +10,8 @@ public class FibonacciSeries {
 	int num3 = 1; 
 	
 	System.out.println("Fibonacci series is : ");
+	
+	
 	for (int i = 1; i <= x; i++) {
 	num1 = num2;
 	num2 = num3;
